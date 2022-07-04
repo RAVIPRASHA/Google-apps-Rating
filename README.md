@@ -1,1 +1,1 @@
-# Google-apps-Rating
+# Google Play store app rating prediction
